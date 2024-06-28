@@ -24,7 +24,7 @@ The implementation details and code are provided in the `RAG-Business.ipynb` not
 
 ## Flowchart
 
-![RAG Architecture]([path/to/your/image/RAG-Architecture.png](https://github.com/koushik0044/RAG-RedTeam-Proof/blob/692d352188a31cbc09baa5c3b5d16704cfb2fa5d/RAG-Architecture.png))
+![RAG Architecture](https://github.com/koushik0044/RAG-RedTeam-Proof/blob/692d352188a31cbc09baa5c3b5d16704cfb2fa5d/RAG-Architecture.png)
 
 ## Getting Started
 
